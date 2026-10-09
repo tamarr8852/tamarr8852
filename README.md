@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello! I'm Tamar 👋
 
-<!--
-**tamarr8852/tamarr8852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year computer science student, and I am learning and growing in the field of development and technology.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I am learning programming, problem solving, and software development
+- 💻 Languages I have studied: HTML, Java, JavaScript, C, Python
+- 🚀 I enjoy learning new technologies and experimenting with different projects
+- 📚 I am interested in coding, web design, and logical programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- Java
+- JavaScript
+- C
+- Python
+- Git & GitHub
+
+## Goal
+To continue learning, improve myself, and develop as a programmer in the field of computer science, while expanding my knowledge through practical projects.
+
+## Projects
+- 🔧 Working with Git and GitHub
+- 🧩 Learning programming, data structures, and logic
+- 💡 Exploring simple and effective software solutions
+
+## Contact
+- 📫 I would be happy to connect and learn together
+- 💬 You can reach me through GitHub
+
+---
+
+> I am a second-year computer science student, and I continue to develop step by step through code and learning.
+
